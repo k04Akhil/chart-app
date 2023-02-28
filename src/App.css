@@ -1,0 +1,9 @@
+.fill {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.chart {
+  height: 50%;
+}
